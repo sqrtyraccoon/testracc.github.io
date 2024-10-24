@@ -30,9 +30,18 @@ header {
 .navigation > a:hover {
     background-color: red;
 }
+#home {
+    display: flex;
+    
+}
 
 
+.content {
+    display: flex;
+    padding-top: 570px;
+    text-align: center;
 
+}
 
 
 footer {
