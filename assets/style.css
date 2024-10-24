@@ -27,6 +27,9 @@ header {
     border: 2px solid #ccc;
     border-radius: 4px;
 }
+.navigation > a:hover {
+    background-color: red;
+}
 
 
 
